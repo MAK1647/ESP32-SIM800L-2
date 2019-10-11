@@ -1,0 +1,2 @@
+Biến statuss(bool) sẽ trả về trị kiểm tra tình trạng của sim800l , rảnh trả về true ,ko rảnh trả về false
+Biến error(bool) sẽ trả về trị kiểm tra việc gửi tin nhắn của sim800l , gửi đc sẽ trả về true , ko gửi đc sẽ trả về false
